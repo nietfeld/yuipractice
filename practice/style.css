@@ -1,0 +1,25 @@
+	body{
+		margin: 0em 1em;
+    	background-image: url(images/bgtop.png), url(images/bg.png);
+    	background-repeat: repeat-x, repeat;
+}
+	}
+
+	#splash {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.sidebar {
+        padding: 0.5em; 
+        border-left: 2px solid #777;
+    }
+    
+    .main {
+        padding: 0.75em 0.5em; 
+    }
+
+	.pure-button-success {
+        background: rgb(76, 201, 71); /* this is a green */
+    }
+
